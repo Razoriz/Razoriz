@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hariz</h1>
 <h3 align="center">A passionate full stack developer from Singapore.</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.webp](https://media0.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e47q4m7p3bcvujwd5adng78764g4bjcfm8sb4r08sqo&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47f1y4hhi6gcpembhorik6ydooenethrj3s4jnl3lp&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razoriz&label=Profile%20views&color=0e75b6&style=flat" alt="razoriz" /> </p>
 
