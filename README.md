@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hariz</h1>
 <h3 align="center">A passionate full stack developer from Singapore.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/QxSveBdhdtLgagcKdR/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razoriz&label=Profile%20views&color=0e75b6&style=flat" alt="razoriz" /> </p>
 
